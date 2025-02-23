@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <h1> Who Are We?</h1>
 </div>
@@ -6,21 +8,22 @@ We are a group of game developers, artists, and gamers dedicated to building pro
 <div align="center">
 <h1> Projects </h1>
 </div>
-<table>
+
+<table align="center">
 <th colspan="2">
-  Conquest of Alwyd
+  <h1>Conquest of Alwyd</h1>
 </th>
-  <tr>
+  <tr align="center">
     <td>Type: </td>
     <td>Mod, Hearts of Iron IV</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Status: </td>
     <td>Unreleased, In Development</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Description: </td>
-    <td>Project Alwyd's first project is an adaptation of the world of Quar to the grand strategy hit, Hearts of Iron 4. </td>
+    <td>Project Alwyd's first project is an adaptation of the world <br>of Quar to the grand strategy hit, Hearts of Iron 4. </td>
   </tr>
 </table>
 
