@@ -3,13 +3,9 @@ We are a group of game developers, artists, and gamers dedicated to building pro
 
 # Projects
 <table>
-<tr>
-  <td>Conquest of Alwyd</td>
-</tr>
-  <tr>
-    <td>Type: </td>
-    <td>Mod, Hearts of Iron IV</td>
-  </tr>
+<th colspan="2">
+  Conquest of Alwyd
+</th>
   <tr>
     <td>Type: </td>
     <td>Mod, Hearts of Iron IV</td>
