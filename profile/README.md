@@ -1,7 +1,11 @@
-# Project Alwyd
+<div align="center">
+<h1> Who Are We?</h1>
+</div>
 We are a group of game developers, artists, and gamers dedicated to building projects that expand the world of Quar into the digital space. We are not affiliated with ZombieSmith or Joshua Qualtieri. Quar, and all associated properties, are owned by ZombieSmith and Joshua Qualtieri, and this organization claims no ownership over these works.
 
-# Projects
+<div align="center">
+<h1> Projects </h1>
+</div>
 <table>
 <th colspan="2">
   Conquest of Alwyd
