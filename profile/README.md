@@ -29,7 +29,7 @@ We are a group of developers, artists, and gamers dedicated to building projects
 
 <table align="center">
 <th colspan="2">
-  <h2>Name Generator</h2>
+  <h1>Quar Name Generator</h1>
 </th>
   <tr align="center">
     <td>Type: </td>
