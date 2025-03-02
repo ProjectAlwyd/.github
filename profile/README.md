@@ -33,7 +33,7 @@ We are a group of developers, artists, and gamers dedicated to building projects
 </th>
   <tr align="center">
     <td>Type: </td>
-    <td>Utility</td>
+    <td>Utility, Web App</td>
   </tr>
   <tr align="center">
     <td>Status: </td>
