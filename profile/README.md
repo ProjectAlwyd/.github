@@ -27,6 +27,25 @@ We are a group of developers, artists, and gamers dedicated to building projects
   </tr>
 </table>
 
+<table align="center">
+<th colspan="2">
+  <h2>Name Generator</h2>
+</th>
+  <tr align="center">
+    <td>Type: </td>
+    <td>Utility</td>
+  </tr>
+  <tr align="center">
+    <td>Status: </td>
+    <td><a href="https://projectalwyd.github.io/namegenerator">Released</a></td>
+  </tr>
+  <tr align="center">
+    <td>Description: </td>
+    <td>Simple name generator, used to assist players with <br> brainstorming rhyfler names. </td>
+  </tr>
+</table>
+
+
 
 <!--
 
