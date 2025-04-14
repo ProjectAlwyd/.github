@@ -45,6 +45,24 @@ We are a group of developers, artists, and gamers dedicated to building projects
   </tr>
 </table>
 
+<table align="center">
+<th colspan="2">
+  <h1>Quar Translator</h1>
+</th>
+  <tr align="center">
+    <td>Type: </td>
+    <td>Utility, Web App</td>
+  </tr>
+  <tr align="center">
+    <td>Status: </td>
+    <td><a href="https://projectalwyd.github.io/translator">Released</a></td>
+  </tr>
+  <tr align="center">
+    <td>Description: </td>
+    <td>Tool for previewing rhyfler/quar fonts! </td>
+  </tr>
+</table>
+
 
 
 <!--
